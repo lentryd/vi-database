@@ -1,0 +1,11 @@
+{
+  "name": "vi-database",
+  "version": "1.0.1",
+  "description": "Обертка для базы данных firebase",
+  "main": "index.js",
+  "author": "VI",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^9.4.2"
+  }
+}
